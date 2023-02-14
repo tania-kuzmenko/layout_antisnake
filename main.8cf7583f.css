@@ -1,0 +1,2 @@
+.block{display:flex;justify-content:center;align-items:center;height:300px}.block--1{background-color:red}.block--2{background-color:#c00}.block--3{background-color:#900}.block--4{background-color:#600}.block--5{background-color:#300}.block--6{background-color:#000}.container{height:100%;display:grid;grid-template-columns:repeat(auto-fit,minmax(calc(max(300px, 100vw / 3)),1fr))}body{margin:0}html{font-family:Arial,sans-serif;color:#fff;font-size:100px}
+/*# sourceMappingURL=main.8cf7583f.css.map */
